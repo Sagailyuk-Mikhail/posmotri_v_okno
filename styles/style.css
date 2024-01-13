@@ -39,6 +39,7 @@ ul,
 ol {
   list-style: none;
 }
+
 .content {
   margin: auto;
   display: flex;
