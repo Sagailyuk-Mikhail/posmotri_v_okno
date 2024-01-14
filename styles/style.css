@@ -76,9 +76,9 @@ ol {
 
 .result__video-container {
   width: 711px;
-  height: 403px;
-  padding-bottom: 15px;
+  height: 386px;
   position: relative;
+  margin-bottom: 15px;
 }
 
 .result__video {
